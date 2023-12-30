@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/WordPlay/static/css/main.31d6cfe0.css",
+    "main.js": "/WordPlay/static/js/main.0341cd6d.js",
+    "index.html": "/WordPlay/index.html",
+    "main.0341cd6d.js.map": "/WordPlay/static/js/main.0341cd6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0341cd6d.js"
+  ]
+}
